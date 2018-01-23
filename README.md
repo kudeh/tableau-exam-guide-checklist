@@ -2,7 +2,9 @@
 Desktop Qualified Associate Exam Guide Skills Measured Checklist
 
 ## Data Connections - 23%
-
+* - [ ] Understand how to connect to Tableau Server
+* - [ ] Understand Performance Optimization
+  * - [ ] Parallel query
 ## Organizing & Simplifying Data - 10%
 
 ## Field & Chart Types - 15%
