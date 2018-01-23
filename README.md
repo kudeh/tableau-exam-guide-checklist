@@ -55,11 +55,51 @@ Desktop Qualified Associate Exam Guide Skills Measured Checklist
 * - [ ] Understand mark labels and annotations
 
 ## Calculations - 17%
+* Understand how to:
+  * - [ ] Manipulate string and date calculations
+  * - [ ] Create quick table calculations
+  * - [ ] Use LOD calculations; types of LOD calculations
+  * - [ ] Use Ad-hoc calculations
+  * - [ ] Work with aggregation options
+  * - [ ] Build logic statements
+  * - [ ] Build arithmetic calculations
+  * - [ ] Build grand totals and sub-totals
+  * - [ ] Use calculations in join clauses
 
 ## Mapping - 9%
+* Understand how to use:
+  * - [ ] Pan & Zoom
+  * - [ ] Filtering
+  * - [ ] Map layering
+  * - [ ] Custom territories
+  * - [ ] Lasso & Radial selection
+* - [ ] Understand how to modify locations within Tableau
+* - [ ] Understand how to import and manage custom geocoding
+* - [ ] Understand how to use a background image map
+* - [ ] Understand how to use Geographic search
+* - [ ] Understand how to connect to spatial files
 
 ## Analytics - 15%
+* Understand how to use:
+  * - [ ] Reference Lines
+  * - [ ] Reference Bands
+  * - [ ] Trend Lines
+  * - [ ] Trend Model
+  * - [ ] Forecasting
+  * - [ ] Drag & Drop Analytics
+  * - [ ] Box Plot
+  * - [ ] Reference distributions
+  * - [ ] Statistical summary card
+  * - [ ] Instant Analytics
 
 ## Dashboards - 11%
+* - [ ] Understand publishing & sharing options
+* - [ ] Understand how to build dashboards
+* - [ ] Understand dashboard actions
+* - [ ] Understand Device Designer
+* - [ ] Understand how to create a drill down report
+* - [ ] Understand how to utilize visual best practices for dashboard design 
+
 
 ## Timeliness
+* - [ ] Work on getting task done effectively, efficiently and in a timely manner
