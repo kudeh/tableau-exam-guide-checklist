@@ -23,8 +23,36 @@ Desktop Qualified Associate Exam Guide Skills Measured Checklist
 * - [ ] Understand Shadow extracts
 
 ## Organizing & Simplifying Data - 10%
-
+* Understand how to:
+  * - [ ] Filter data
+  * - [ ] Sort data
+  * - [ ] Build groups
+  * - [ ] Build hierarchies
+  * - [ ] Build sets
+  
 ## Field & Chart Types - 15%
+* - [ ] Understand discrete v. continuous
+* - [ ] Understand measure names and measure values
+* - [ ] Understand generated fields
+* - [ ] Understand generated fields
+  * - [ ] Histograms
+  * - [ ] Heat maps
+  * - [ ] Tree maps
+  * - [ ] Bullet graphs
+  * - [ ] Combined Axis Charts
+  * - [ ] Dual Axis Charts
+  * - [ ] Scatter Plots
+  * - [ ] Data Highlighter
+  * - [ ] Cross tabs
+  * - [ ] Motion charts
+  * - [ ] Bar in bar charts
+  * - [ ] Box plots
+  * - [ ] Gantt Bar Charts
+  * - [ ] Paretos
+  * - [ ] Sparklines
+* - [ ] Understand how to effectively use titles, captions and tooltips
+* - [ ] Understand how to edit axes
+* - [ ] Understand mark labels and annotations
 
 ## Calculations - 17%
 
