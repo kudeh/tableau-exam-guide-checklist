@@ -106,5 +106,5 @@ Desktop Qualified Associate Exam Guide Skills Measured Checklist
 
 ### Top Learning Resources
 1. [Tableau Training Videos](https://www.tableau.com/learn/training)
-2. [Tableau Help Guide](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.html)
+2. [Tableau Help Guide](http://onlinehelp.tableau.com/current/pro/desktop/en-us/help.html#default.html%3FTocPath%3D_____1)
 3. [Tableau Community Forum](https://community.tableau.com/community/forums)
