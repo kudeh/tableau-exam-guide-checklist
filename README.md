@@ -24,11 +24,11 @@ Desktop Qualified Associate Exam Guide Skills Measured Checklist
 
 ## Organizing & Simplifying Data - 10%
 * Understand how to:
-  * - [ ] Filter data
-  * - [ ] Sort data
-  * - [ ] Build groups
-  * - [ ] Build hierarchies
-  * - [ ] Build sets
+  * - [X] Filter data
+  * - [X] Sort data
+  * - [X] Build groups
+  * - [X] Build hierarchies
+  * - [X] Build sets
   
 ## Field & Chart Types - 15%
 * - [ ] Understand discrete v. continuous
