@@ -34,7 +34,7 @@ Desktop Qualified Associate Exam Guide Skills Measured Checklist
 * - [ ] Understand discrete v. continuous
 * - [ ] Understand measure names and measure values
 * - [ ] Understand generated fields
-* - [ ] Understand generated fields
+* - [ ] Understand how and when to build:
   * - [ ] Histograms
   * - [ ] Heat maps
   * - [ ] Tree maps
