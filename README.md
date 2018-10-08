@@ -2,14 +2,14 @@
 Desktop Qualified Associate Exam Guide Skills Measured Checklist
 
 ## Data Connections - 23%
-* - [ ] Understand how to connect to Tableau Server
-* - [ ] Understand Performance Optimization
-  * - [ ] Parallel query
-  * - [ ] Data engine vectorization
-  * - [ ] Parallel aggregation
-  * - [ ] External query caching
+* - [X] Understand how to connect to Tableau Server
+* - [X] Understand Performance Optimization
+  * - [X] Parallel query
+  * - [X] Data engine vectorization
+  * - [X] Parallel aggregation
+  * - [X] External query caching
   * - [ ] Query fusion
-* - [ ] Understand how to use Automatic & Custom Split
+* - [X] Understand how to use Automatic & Custom Split
 * - [ ] Understand how to join tables from single and multiple databases
 * - [ ] Understand how to use Data Preparation
   * - [ ] Blending
